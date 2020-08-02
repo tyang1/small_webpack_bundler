@@ -1,3 +1,3 @@
-import message from "./meessage.js";
+import message from "./message.js";
 
 console.log(message);
